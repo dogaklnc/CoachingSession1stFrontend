@@ -1,0 +1,10 @@
+Objectives
+> Create a front end project
+> Include the community
+> Complete the infra part for the front end
+> Create an architecture
+
+Key Results
+> Have an active repo
+> Deploy to cloud servers
+> Create an immutable and repeatable infrastructure
